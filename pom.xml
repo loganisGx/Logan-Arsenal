@@ -11,6 +11,7 @@
     <modules>
         <module>Logan-Base</module>
         <module>Logan-DataMigration</module>
+        <module>Logan-DesignPattern</module>
     </modules>
 
     <properties>
