@@ -13,6 +13,8 @@ public class DatasourceMappingHolder {
     }
 
     public static String getDatasourceType() {
-        return local.get();
+        String type = local.get();
+        local.remove();     //防止内存泄漏
+        return type;
     }
 }
