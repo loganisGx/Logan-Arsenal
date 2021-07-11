@@ -1,6 +1,6 @@
-package com.logan.base.common;
+package com.logan.base.common.entity;
 
-import com.logan.base.common.accessories.Silencer;
+import com.logan.base.common.entity.accessories.Silencer;
 
 import javax.activation.UnsupportedDataTypeException;
 

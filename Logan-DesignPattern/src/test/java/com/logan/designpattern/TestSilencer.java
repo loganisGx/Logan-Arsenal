@@ -1,8 +1,6 @@
 package com.logan.designpattern;
 
-import com.logan.base.common.Gun;
-import com.logan.base.common.MachineGun;
-import com.logan.base.common.Pistol;
+import com.logan.base.common.entity.MachineGun;
 import com.logan.designpattern.templatepattern.impl.PistolSilencer;
 import org.junit.Test;
 
