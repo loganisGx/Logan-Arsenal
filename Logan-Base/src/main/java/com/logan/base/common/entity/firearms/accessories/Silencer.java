@@ -1,6 +1,6 @@
-package com.logan.base.common.entity.accessories;
+package com.logan.base.common.entity.firearms.accessories;
 
-import com.logan.base.common.entity.Weapon;
+import com.logan.base.common.entity.firearms.Weapon;
 
 /**
  * Desc：Silencer

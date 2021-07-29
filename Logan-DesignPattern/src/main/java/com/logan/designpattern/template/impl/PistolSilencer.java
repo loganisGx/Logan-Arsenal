@@ -1,7 +1,7 @@
-package com.logan.designpattern.templatepattern.impl;
+package com.logan.designpattern.template.impl;
 
-import com.logan.base.common.entity.Pistol;
-import com.logan.designpattern.templatepattern.AbstractGunSilencer;
+import com.logan.base.common.entity.firearms.Pistol;
+import com.logan.designpattern.template.AbstractGunSilencer;
 
 /**
  * Desc：PistolSilencer

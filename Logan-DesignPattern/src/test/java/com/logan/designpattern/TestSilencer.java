@@ -1,7 +1,7 @@
 package com.logan.designpattern;
 
-import com.logan.base.common.entity.MachineGun;
-import com.logan.designpattern.templatepattern.impl.PistolSilencer;
+import com.logan.base.common.entity.firearms.MachineGun;
+import com.logan.designpattern.template.impl.PistolSilencer;
 import org.junit.Test;
 
 import javax.activation.UnsupportedDataTypeException;

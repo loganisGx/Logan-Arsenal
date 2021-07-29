@@ -1,4 +1,4 @@
-package com.logan.base.common.entity;
+package com.logan.base.common.entity.firearms;
 
 /**
  * Desc：Weapon
